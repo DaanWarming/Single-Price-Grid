@@ -1,3 +1,1 @@
-# Single-Price-Grid
-
-this project I focussed more on the responsiveness of the page
+Show live demo here: https://daanwarming.github.io/Single-Price-Grid/
